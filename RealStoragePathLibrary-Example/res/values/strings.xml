@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RealStoragePath</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="internal_memory_path">Internal Memory Path:</string>
+    <string name="removal_memory_path">Removable Memory Path:</string>
+    <string name="get_path">Get the paths of Memory</string>
+    <string name="phone_info">Phone Information:</string>
+    <string name="inbuilt_storage">InBuilt Storage :</string>
+    <string name="microSD">microSD Storage :</string>
+    <string name="path">"Path : "</string>
+    <string name="total_space">Total Space (GB) :</string>
+    <string name="used_space">Used Space (GB) :</string>
+    <string name="available_space">Available Space (GB) :</string>
+    <string name="get_real_storage_info">Get Real Storage Info</string>
+
+</resources>
